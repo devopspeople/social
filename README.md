@@ -1,2 +1,1 @@
-# social
-social training repository
+# You are doomed!
